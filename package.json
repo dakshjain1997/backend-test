@@ -1,0 +1,26 @@
+{
+  "name": "social-media-api",
+  "version": "1.0.0",
+  "description": "a small social media api",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dakshjain1997/backend-test.git"
+  },
+  "author": "daksh jain",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dakshjain1997/backend-test/issues"
+  },
+  "homepage": "https://github.com/dakshjain1997/backend-test#readme",
+  "dependencies": {
+    "dotenv": "^16.0.3",
+    "express": "^4.18.2",
+    "nodemon": "^2.0.21"
+  }
+}
